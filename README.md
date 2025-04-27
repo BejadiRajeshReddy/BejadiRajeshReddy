@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/rajeshreddydev" target="blank"><img src="https://img.shields.io/twitter/follow/rajeshreddydev?logo=twitter&style=for-the-badge" alt="rajeshreddydev" /></a> </p>
 
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **React,Next**
 
 - 💬 Ask me about **FrontEnd, DevOps**
 
