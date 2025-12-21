@@ -66,12 +66,8 @@
 ---
 
 ## ✨ Contribution Graph
-[![Suchitra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BejadiRajeshReddy&bg_color=0d1117&color=00f7ff&line=8a2be2&point=00f7ff&area=true&hide_border=true)](https://github.com/BejadiRajeshReddy)
-
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BejadiRajeshReddy/BejadiRajeshReddy/output/github-snake.svg" alt="snake gif" />
-</p>
+[![RajeshReddy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BejadiRajeshReddy&bg_color=0d1117&color=00f7ff&line=8a2be2&point=00f7ff&area=true&hide_border=true)](https://github.com/BejadiRajeshReddy)
+>
 
 ---
 
