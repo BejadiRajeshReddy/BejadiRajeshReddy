@@ -73,10 +73,21 @@
 
 ### ⚡ GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BejadiRajeshReddy&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BejadiRajeshReddy/BejadiRajeshReddy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BejadiRajeshReddy/BejadiRajeshReddy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BejadiRajeshReddy/BejadiRajeshReddy/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BejadiRajeshReddy&theme=radical&hide_border=true4" alt="GitHub Streak" />
-</p>
+###
+
+<img src="https://raw.githubusercontent.com/bejadirajeshreddy/bejadirajeshreddy/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BejadiRajeshReddy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BejadiRajeshReddy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
