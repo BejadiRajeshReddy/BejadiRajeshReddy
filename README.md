@@ -81,13 +81,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/bejadirajeshreddy/bejadirajeshreddy/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BejadiRajeshReddy18/BejadiRajeshReddy18/output/snake.svg" alt="Snake animation" />
 
-###
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BejadiRajeshReddy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BejadiRajeshReddy&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BejadiRajeshReddy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BejadiRajeshReddy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BejadiRajeshReddy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BejadiRajeshReddy18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
