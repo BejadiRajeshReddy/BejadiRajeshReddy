@@ -70,7 +70,7 @@
 >
 
 ---
-
+<!--
 ### ⚡ GitHub Stats & Activity
 
 <picture>
@@ -82,11 +82,11 @@
 ###
 
 <img src="https://raw.githubusercontent.com/BejadiRajeshReddy/BejadiRajeshReddy/output/snake.svg" alt="Snake animation" />
-
+-->
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BejadiRajeshReddy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BejadiRajeshReddy&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=BejadiRajeshReddy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BejadiRajeshReddy&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BejadiRajeshReddy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BejadiRajeshReddy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BejadiRajeshReddy&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
